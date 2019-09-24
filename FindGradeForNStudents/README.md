@@ -28,6 +28,16 @@ otherwise
          grade = F
 </pre>
 
+You can use the solutions to these subproblems to design the main algorithm as follows: (Suppose totalAverage stands for the sum of the averages of each student’s test average.)
+
+1. totalAverage = 0;
+2. Repeat the following steps for each student in the class:
+a. Get student’s name.
+b. Use the algorithm as discussed above to find the average test score.
+c. Use the algorithm as discussed above to find the grade.
+d. Update totalAverage by adding the current student’s average test score.
+Determine the class average as follows: classAverage = totalAverage / 10
+
 ### Flowchart
 
 <img width="441"  src="https://user-images.githubusercontent.com/32389129/65375859-66dbbc00-dca2-11e9-9dec-4c46e551fd54.png">
