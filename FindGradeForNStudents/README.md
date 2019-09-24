@@ -36,7 +36,7 @@ a. Get student’s name.
 b. Use the algorithm as discussed above to find the average test score.
 c. Use the algorithm as discussed above to find the grade.
 d. Update totalAverage by adding the current student’s average test score.
-Determine the class average as follows: classAverage = totalAverage / 10
+3. Determine the class average as follows: classAverage = totalAverage / 10
 
 ### Flowchart
 
