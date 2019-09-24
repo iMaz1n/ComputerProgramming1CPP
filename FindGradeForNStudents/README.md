@@ -43,4 +43,4 @@ You can use the solutions to these subproblems to design the main algorithm as f
 <img width="783" alt="Flowchart" src="https://user-images.githubusercontent.com/32389129/65475886-d2cc4900-de89-11e9-80cf-c7e542e45ac4.png">
 
 ### Simple run
-![Simplerun](https://user-images.githubusercontent.com/32389129/65376082-84aa2080-dca4-11e9-82de-7dc72472d73a.gif)
+![SimpleRun](https://user-images.githubusercontent.com/32389129/65476608-2b044a80-de8c-11e9-899e-002f782a05fb.gif)
