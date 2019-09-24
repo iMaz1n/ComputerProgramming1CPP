@@ -40,7 +40,7 @@ You can use the solutions to these subproblems to design the main algorithm as f
 
 ### Flowchart
 
-<img width="441"  src="https://user-images.githubusercontent.com/32389129/65375859-66dbbc00-dca2-11e9-9dec-4c46e551fd54.png">
+<img width="804" alt="Flowchart" src="https://user-images.githubusercontent.com/32389129/65475536-9ba96800-de88-11e9-91fd-a5b1b2be7023.png">
 
 ### Simple run
 ![Simplerun](https://user-images.githubusercontent.com/32389129/65376082-84aa2080-dca4-11e9-82de-7dc72472d73a.gif)
