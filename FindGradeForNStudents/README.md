@@ -32,10 +32,10 @@ You can use the solutions to these subproblems to design the main algorithm as f
 
 1. totalAverage = 0;
 2. Repeat the following steps for each student in the class:
-    1.  Get student’s name.
-    2. Use the algorithm as discussed above to find the average test score.
-    3. Use the algorithm as discussed above to find the grade.
-    4. Update totalAverage by adding the current student’s average test score.
+    1.  Get student’s name. 2a
+    2. Use the algorithm as discussed above to find the average test score. 2b
+    3. Use the algorithm as discussed above to find the grade. 2c
+    4. Update totalAverage by adding the current student’s average test score. 2d
 3. Determine the class average as follows: classAverage = totalAverage / 10
 
 ### Flowchart
