@@ -15,7 +15,7 @@ int main() {
 	static int totalAverage = 0;
 	string name,grade;
 	
-	cout<<"How many students in the class? Enter the number of students: "<<endl;
+	cout<<"How many students in the class? Enter the number of students: ";
 	cin>>studentsNumber;
 	
 	for (int i=1;i<=studentsNumber;i++) {
@@ -45,6 +45,6 @@ int main() {
 		}
 		
 		classAverage = totalAverage / studentsNumber;
-		cout << "The class average is: "<<classAverage;	
+		cout << "The class average is: "<<classAverage<<endl;	
 	return 0;
 }
