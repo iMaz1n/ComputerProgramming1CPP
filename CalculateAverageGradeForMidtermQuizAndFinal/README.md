@@ -11,18 +11,7 @@ Step 8: Display N
 Step 9: Display R  
 Step 10: End  
 
-### Solution:
-<pre>
-X=7, Y=3, Z=5
 
-N = X % Y + Z / 5
-       7 % 3 + 5 / 5 
-       1 + 1 = 2 = N
-
-R = ( 3 + Y ) * N;
-       ( 3 + 3 ) * 2
-       (6) * 2 = 12 = R
-</pre>
 
 ### Sample run
 
