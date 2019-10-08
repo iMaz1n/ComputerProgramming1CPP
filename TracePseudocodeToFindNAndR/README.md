@@ -27,4 +27,5 @@ R = ( 3 + Y ) * N;
 </pre>
 
 ### Sample run
-![SimpleRun](https://user-images.githubusercontent.com/32389129/65476608-2b044a80-de8c-11e9-899e-002f782a05fb.gif)
+
+<img width="798" alt="samplerun" src="https://user-images.githubusercontent.com/32389129/66387718-364b9000-e9cd-11e9-8755-2da48e12c434.png">
