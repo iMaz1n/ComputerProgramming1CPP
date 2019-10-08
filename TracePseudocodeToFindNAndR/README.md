@@ -16,6 +16,7 @@ Step 10: End
 ### Solution:
 <pre>
 X=7, Y=3, Z=5
+
 N = X % Y + Z / 5
        7 % 3 + 5 / 5 
        1 + 1 = 2 = N
