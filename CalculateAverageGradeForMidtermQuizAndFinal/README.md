@@ -17,4 +17,5 @@ Step 8: End
 
 ### Sample run
 
-<img width="798" alt="samplerun" src="https://user-images.githubusercontent.com/32389129/66387718-364b9000-e9cd-11e9-8755-2da48e12c434.png">
+![samplerun](https://user-images.githubusercontent.com/32389129/66436454-c1f60880-ea2f-11e9-9731-a7e052c8e7c6.gif)
+
