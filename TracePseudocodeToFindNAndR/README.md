@@ -2,7 +2,7 @@
 
 
 
-Step 1: Start
+Step 1: Start  
 Step 2: Declare X, Y, Z, N, R
 Step 3: Get X     (=7)
 Step 4: Get Y     (=3)
