@@ -11,19 +11,19 @@ using namespace std;
 
 int main() {
 	
-	int qiz, mid, fnl;
-	int Q,M,F,score;
+	double qiz, mid, fnl;
+	double Q,M,F,score=0;
 	
 	cin>>qiz;
 	cin>>mid;
 	cin>>fnl;
 	
-	Q = ( qiz * 20 ) / 100; 
-	M = ( mid  * 30 ) / 100;
-	F = ( mid  * 50 ) / 100;
+	Q = ( qiz * 0.2 ) / 20; 
+	M = ( mid * 0.3 ) / 30;
+	F = ( fnl * 0.5 ) / 50;
 	
-	score = Q + M + F; 
-	
+	score = ( Q + M + F ) * 100; 
+	cout<<endl;
 	cout<<score;
 	
 	return 0;
