@@ -1,8 +1,9 @@
 # Trace the following pseudocode 
 
 
-<Enter>
+
 Step 1: Start
+
 Step 2: Declare X, Y, Z, N, R
 Step 3: Get X     (=7)
 Step 4: Get Y     (=3)
@@ -12,7 +13,7 @@ Step 7: R = (3 + Y) * N
 Step 8: Display N
 Step 9: Display R
 Step 10: End
-</Enter>
+
 ### Solution:
 <pre>
 X=7, Y=3, Z=5
