@@ -3,15 +3,13 @@
 ### Pseudocode
 
 Step 1: Start  
-Step 2: input qiz, mid, fnl
-Step 3: Q = ( qiz * 30 ) / 100
-Step 4: Get Y     (=3)  
-Step 5: Get Z     (=5)  
-Step 6: N = X % Y + Z / 5  
-Step 7: R = (3 + Y) * N  
-Step 8: Display N  
-Step 9: Display R  
-Step 10: End  
+Step 2: input qiz, mid, fnl  
+Step 3: Q = ( qiz * 20 ) / 100  
+Step 4: M = ( mid  * 30 ) / 100
+Step 5: F = ( mid  * 30 ) / 100
+Step 6: score = Q + M + F
+Step 7: output score
+Step 8: End  
 
 
 
