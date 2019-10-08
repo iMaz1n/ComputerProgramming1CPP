@@ -1,6 +1,7 @@
 //
 //  Program.cpp
-//  You need to calculate your average grade for Problem solving course. There are three marks midterm(30%), quiz (20%) and final (50%).
+//  You need to calculate your average grade for Problem solving course.
+//  There are three marks midterm(30%), quiz (20%) and final (50%).
 //
 //  Created by Mazen Hrazi on 08/10/19.
 //  Copyright © 2019 iZONA. All rights reserved.
@@ -11,14 +12,14 @@ using namespace std;
 
 int main() {
 	
-	int qiz, mid, fnl;
+	double qiz, mid, fnl;
 	double Q,M,F,score=0;
 	
-	cout<<"Enter your quiz mark (from 20): ";
+	cout<<"Enter your quiz mark (of 20): ";
 	cin>>qiz;
-	cout<<"Enter your midterm mark (from 30): ";
+	cout<<"Enter your midterm mark (of 30): ";
 	cin>>mid;
-	cout<<"Enter your final mark (from 50): ";
+	cout<<"Enter your final mark (of 50): ";
 	cin>>fnl;
 	
 	Q = ( qiz * 0.2 ) / 20; 
@@ -27,7 +28,7 @@ int main() {
 	
 	score = ( Q + M + F ) * 100;
 	
-	cout<<"Your score is: "<<score;
+	cout<<"Your score is: "<<score<<endl;
 	
 	return 0;
 }
