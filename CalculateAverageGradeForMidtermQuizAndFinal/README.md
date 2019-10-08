@@ -4,11 +4,11 @@
 
 Step 1: Start  
 Step 2: input qiz, mid, fnl  
-Step 3: Q = ( qiz * 0.2 ) / 20
-Step 4: M = ( mid * 0.3 ) / 30
-Step 5: F = ( fnl * 0.5 ) / 50
-Step 6: score = ( Q + M + F ) * 100
-Step 7: output score
+Step 3: Q = ( qiz * 0.2 ) / 20  
+Step 4: M = ( mid * 0.3 ) / 30  
+Step 5: F = ( fnl * 0.5 ) / 50  
+Step 6: score = ( Q + M + F ) * 100  
+Step 7: output score  
 Step 8: End  
 
 
