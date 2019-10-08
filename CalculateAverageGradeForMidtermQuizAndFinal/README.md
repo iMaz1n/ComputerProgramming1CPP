@@ -1,5 +1,7 @@
 # You need to calculate your average grade for Problem solving course. There are three marks midterm(30%), quiz (20%) and final (50%). All the marks are /100. Write pseudo code to calculate your score.
 
+### Pseudocode
+
 Step 1: Start  
 Step 2: Declare X, Y, Z, N, R  
 Step 3: Get X     (=7)  
