@@ -3,8 +3,8 @@
 ### Pseudocode
 
 Step 1: Start  
-Step 2: Declare X, Y, Z, N, R  
-Step 3: Get X     (=7)  
+Step 2: input qiz, mid, fnl
+Step 3: Q = ( qiz * 30 ) / 100
 Step 4: Get Y     (=3)  
 Step 5: Get Z     (=5)  
 Step 6: N = X % Y + Z / 5  
