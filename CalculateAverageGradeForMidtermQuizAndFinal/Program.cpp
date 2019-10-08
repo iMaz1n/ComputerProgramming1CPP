@@ -11,20 +11,23 @@ using namespace std;
 
 int main() {
 	
-	double qiz, mid, fnl;
+	int qiz, mid, fnl;
 	double Q,M,F,score=0;
 	
+	cout<<"Enter your quiz mark (from 20): ";
 	cin>>qiz;
+	cout<<"Enter your midterm mark (from 30): ";
 	cin>>mid;
+	cout<<"Enter your final mark (from 50): ";
 	cin>>fnl;
 	
 	Q = ( qiz * 0.2 ) / 20; 
 	M = ( mid * 0.3 ) / 30;
 	F = ( fnl * 0.5 ) / 50;
 	
-	score = ( Q + M + F ) * 100; 
-	cout<<endl;
-	cout<<score;
+	score = ( Q + M + F ) * 100;
+	
+	cout<<"Your score is: "<<score;
 	
 	return 0;
 }

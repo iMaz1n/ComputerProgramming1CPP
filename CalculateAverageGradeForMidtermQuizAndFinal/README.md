@@ -11,7 +11,9 @@ Step 6: score = ( Q + M + F ) * 100
 Step 7: output score  
 Step 8: End  
 
+### Flowchart
 
+<img width="326" src="https://user-images.githubusercontent.com/32389129/66434773-eea82100-ea2b-11e9-9cb5-bccbf16d0dbf.png">
 
 ### Sample run
 
