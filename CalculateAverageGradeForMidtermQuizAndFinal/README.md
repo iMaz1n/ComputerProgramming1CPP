@@ -15,6 +15,10 @@ Step 8: End
 
 <img width="326" src="https://user-images.githubusercontent.com/32389129/66434773-eea82100-ea2b-11e9-9cb5-bccbf16d0dbf.png">
 
+### Code
+
+[<img width="200" alt="SampleRun" src="https://user-images.githubusercontent.com/32389129/67093452-614a9680-f1ba-11e9-95b1-b56ae3e54e91.png">](Program.cpp)
+
 ### Sample run
 
 ![samplerun](https://user-images.githubusercontent.com/32389129/66436454-c1f60880-ea2f-11e9-9731-a7e052c8e7c6.gif)
