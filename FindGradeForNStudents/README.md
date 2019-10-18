@@ -42,5 +42,9 @@ You can use the solutions to these subproblems to design the main algorithm as f
 
 <img width="783" alt="Flowchart" src="https://user-images.githubusercontent.com/32389129/65475886-d2cc4900-de89-11e9-80cf-c7e542e45ac4.png">
 
+### Code
+
+[<img width="200" alt="SampleRun" src="https://user-images.githubusercontent.com/32389129/67093452-614a9680-f1ba-11e9-95b1-b56ae3e54e91.png">](Program.cpp)
+
 ### Sample run
 ![SimpleRun](https://user-images.githubusercontent.com/32389129/65476608-2b044a80-de8c-11e9-899e-002f782a05fb.gif)
