@@ -26,6 +26,10 @@ R = ( 3 + Y ) * N;
        (6) * 2 = 12 = R
 </pre>
 
+### Code
+
+[<img width="200" alt="SampleRun" src="https://user-images.githubusercontent.com/32389129/67093452-614a9680-f1ba-11e9-95b1-b56ae3e54e91.png">](Program.cpp)
+
 ### Sample run
 
 <img width="798" alt="samplerun" src="https://user-images.githubusercontent.com/32389129/66387718-364b9000-e9cd-11e9-8755-2da48e12c434.png">
